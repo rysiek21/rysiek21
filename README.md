@@ -5,14 +5,14 @@
 <h1 align="center">Using:</h1>
 
 <p align="center"> 
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+    <a href="https://www.lua.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
