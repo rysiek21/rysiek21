@@ -24,3 +24,8 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rysiek21&count_private=true&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysiek21&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rysiek21&theme=material-palenight" />
+</p>
