@@ -26,6 +26,6 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rysiek21&count_private=true&show_icons=true&theme=material-palenight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysiek21&layout=compact&theme=material-palenight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rysiek21&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysiek21&layout=compact&theme=material-palenight" />
 </p>
